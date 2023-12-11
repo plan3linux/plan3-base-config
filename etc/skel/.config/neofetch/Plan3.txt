@@ -1,0 +1,21 @@
+${c1}               xxxxxxxo ${c2};0000000 ${c3} ooooooo:
+                                          
+${c1}             .lllllll. ${c2}ddddddd: ${c3}.ccccccc. 
+${c1}             ,,,,,,,. ${c2},,,,,,,.  ${c3}ooooooo:  
+${c1}                     ${c2}'0000000  ${c3}looooooo   
+${c1}           ,;;;;;;; ${c2} O000000, ${c3}cooooooo.   
+${c1}          .xxxxxxx. ${c2}k000000d ${c3}.ooooooo;    
+${c1}          dxxxxxx' ${c2}d0000000  ${c3}oooooool     
+${c1}         oxxxxxxc ${c2},0000000. ${c3}looooooo.     
+${c1}        ;xxxxxxx ${c2}.0000000; ${c3}:ooooooo.      
+${c1}       .xxxxxxx. ${c2}O000000d ${c3}.ooooooo:       
+${c1}       dxxxxxx' ${c2}d0000000  ${c3}oooooooo        
+${c1}      dxxxxxxl ${c2},0000000. ${c3}looooooo.        
+${c1}     cxxxxxxx ${c2}.0000000; ${c3},ooooooo;         
+${c1}    .xxxxxxx. ${c2}k000000x ${c3}.oooooooo          
+${c1}    dxxxxxx; ${c2}o0000000 ${c3} oooooooo.          
+${c1}   oxxxxxxo ${c2}'0000000 ${c3} cooooooo'           
+${c1}  cxxxxxxx  ${c2}0000000' ${c3}'oooooool            
+${c3}                    .oooooooo             
+oooooooooooooooooooooooooooo'             
+oooooooooooooooooooooooooooo              
